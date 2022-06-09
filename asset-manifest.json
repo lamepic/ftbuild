@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.57e70799.css",
+    "main.js": "/static/js/main.f814b390.js",
+    "static/js/787.d54e0d25.chunk.js": "/static/js/787.d54e0d25.chunk.js",
+    "static/media/logo.png": "/static/media/logo.9a18109e1c16584832d5.png",
+    "static/media/login-image.svg": "/static/media/login-image.b79e41d19d3d972921bb8e249daaffe0.svg",
+    "static/media/dashboard-hero-icon.svg": "/static/media/dashboard-hero-icon.58c872f0aeae388b81570946ffd8f088.svg",
+    "static/media/pdf.svg": "/static/media/pdf.20a57c59eab72f335c4b320ee80bcb0c.svg",
+    "static/media/archive.svg": "/static/media/archive.dd97ed40ae3072a2d332abf770888d0b.svg",
+    "static/media/multiple-files.svg": "/static/media/multiple-files.b2b73f8d92e5d5311558bf7206e8e66d.svg",
+    "static/media/tracker-icon.svg": "/static/media/tracker-icon.6371fcdb202ad14b09e06a9391bf8cc2.svg",
+    "static/media/incoming-tray-icon.svg": "/static/media/incoming-tray-icon.04bec27a4b2bbd60dd4e363cb024e072.svg",
+    "static/media/outgoing-tray-icon.svg": "/static/media/outgoing-tray-icon.1fb05d8ae7729d5b992ce3d56241f49f.svg",
+    "static/media/xls.svg": "/static/media/xls.622e7ecd2cc04c8a1384df47f0d79e77.svg",
+    "static/media/doc.svg": "/static/media/doc.81936349f301725d26dd60921aa0c382.svg",
+    "index.html": "/index.html",
+    "static/media/ppt.svg": "/static/media/ppt.7d2938bf0cad71f158893b6c48df6a41.svg",
+    "static/media/default-file.svg": "/static/media/default-file.ebdd07562ae332ab93a1f71c3b848981.svg",
+    "static/media/add-icon.svg": "/static/media/add-icon.2ecde9d747e33e53a84d0d9767a2d67b.svg",
+    "static/media/folder.svg": "/static/media/folder.3642f159b45689a0175549bd1bfe4524.svg",
+    "static/media/home-icon.svg": "/static/media/home-icon.a1cb008ba41682badfae94e2877d0206.svg",
+    "main.57e70799.css.map": "/static/css/main.57e70799.css.map",
+    "main.f814b390.js.map": "/static/js/main.f814b390.js.map",
+    "787.d54e0d25.chunk.js.map": "/static/js/787.d54e0d25.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57e70799.css",
+    "static/js/main.f814b390.js"
+  ]
+}
